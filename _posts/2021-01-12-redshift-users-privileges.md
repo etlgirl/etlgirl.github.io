@@ -1,11 +1,11 @@
 ---
 layout: post
-title: AWS Redshift: Managing Users and Privileges
+title: Managing Users and Privileges in Amazon Redshift 
 date: 2021-01-12 00:00:00 +0100
 description: # Add post description (optional)
 img: 2021-01-12-main_pic.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: []
+tags: [Redshift]
 ---
 
 ## Privileges 
